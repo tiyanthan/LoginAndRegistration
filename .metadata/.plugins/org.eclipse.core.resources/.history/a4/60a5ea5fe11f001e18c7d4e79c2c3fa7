@@ -1,0 +1,14 @@
+package com.example.demo.service.impl;
+
+import com.example.demo.request.dto.RegistrationRequest;
+import com.example.demo.service.RegistrationService;
+
+public class RegistrationServiceImpl implements RegistrationService{
+  
+  @Override
+  public String register(RegistrationRequest registrationRequest) {
+    
+    return "works";
+  }
+
+}

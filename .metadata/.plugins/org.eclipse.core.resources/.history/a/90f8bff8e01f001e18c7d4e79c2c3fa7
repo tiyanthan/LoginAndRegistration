@@ -1,0 +1,8 @@
+package com.example.demo.service;
+
+import com.example.demo.request.dto.RegistrationRequest;
+
+public class RegistrationService {
+
+  public boolean register(RegistrationRequest registrationRequest);
+}

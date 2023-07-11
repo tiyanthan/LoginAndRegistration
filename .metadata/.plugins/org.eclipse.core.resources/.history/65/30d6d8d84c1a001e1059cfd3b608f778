@@ -1,0 +1,2 @@
+spring.security.oauth2.client.registration.github.client-id= Iv1.12a254d91eaca72d
+spring.security.oauth2.client.registration.github.client-secret=3772d89efa8e2fb0cbb236dfbf93339cf77b776f
